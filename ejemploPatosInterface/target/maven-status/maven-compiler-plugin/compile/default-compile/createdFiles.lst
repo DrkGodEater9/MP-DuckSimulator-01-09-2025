@@ -1,0 +1,13 @@
+com\mycompany\ejemplopatosinterface\ducks\RubberDuck.class
+com\mycompany\ejemplopatosinterface\fly\NoFly.class
+com\mycompany\ejemplopatosinterface\ducks\DecoyDuck.class
+com\mycompany\ejemplopatosinterface\quack\IQuackBehavior.class
+com\mycompany\ejemplopatosinterface\fly\IFlyBehavior.class
+com\mycompany\ejemplopatosinterface\quack\Quack.class
+com\mycompany\ejemplopatosinterface\fly\FlyWithWings.class
+com\mycompany\ejemplopatosinterface\quack\Chifla.class
+com\mycompany\ejemplopatosinterface\ducks\MallardDuck.class
+com\mycompany\ejemplopatosinterface\quack\NoQuack.class
+com\mycompany\ejemplopatosinterface\ducks\RedHeadDuck.class
+com\mycompany\ejemplopatosinterface\ducks\Duck.class
+com\mycompany\ejemplopatosinterface\ducks\control\launcher.class
