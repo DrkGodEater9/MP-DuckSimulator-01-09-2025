@@ -8,7 +8,7 @@ public class NoFly implements IFlyBehavior{
 
     @Override
     public void fly() {
-        System.out.println("No vuela sog"); 
+        System.out.println("No fly..."); 
     }
     
 }

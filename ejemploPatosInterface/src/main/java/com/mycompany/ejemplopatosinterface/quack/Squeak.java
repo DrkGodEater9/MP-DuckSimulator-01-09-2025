@@ -8,10 +8,10 @@ package com.mycompany.ejemplopatosinterface.quack;
  *
  * @author Estudiantes
  */
-public class NoQuack implements IQuackBehavior {
+public class Squeak implements IQuackBehavior {
 
     @Override
     public void quack() {
-        System.out.println("...");
+        System.out.println("Squeak");
     }
 }

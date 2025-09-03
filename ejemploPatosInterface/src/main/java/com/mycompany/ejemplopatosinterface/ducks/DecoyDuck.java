@@ -27,4 +27,7 @@ public class DecoyDuck extends Duck{
         quack.quack();
     }
     
+    public void setFly(IFlyBehavior fly){
+        this.fly = fly;
+    }
 }

@@ -2,16 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.ejemplopatosinterface.quack;
+package com.mycompany.ejemplopatosinterface.fly;
 
 /**
  *
- * @author Estudiantes
+ * @author DrkGodEater
  */
-public class Chifla implements IQuackBehavior {
+public class FlyWithRocket implements IFlyBehavior{
 
     @Override
-    public void quack() {
-        System.out.println("Chifla**");
+    public void fly() {
+        System.out.println("fffffshhhhhhhhhhrrrrrrrrrrrhhhhhhhhh took off...");
     }
+    
 }
